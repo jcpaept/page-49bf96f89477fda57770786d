@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dznr4b.cn/sitemap.xml

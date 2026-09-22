@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a60620f568016022edf4b0ac",
+  "owner": "jcpaept",
+  "repo": "page-49bf96f89477fda57770786d",
+  "title": "喵子科学站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "49bf96f89477fda57770786d",
+      "a": "喵子科学站",
+      "b": "2027最新官网",
+      "entity": "喵子科学站",
+      "brand": "喵子科学站",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5a15a37b0c88fb3624f0720fd4521fd8acc829ad43ee9c021672a9e477f9f47a",
+      "content": {
+        "primary_entity": "喵子科学站",
+        "keyword1": "喵子科学站",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，并按订阅信息完成配置。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "按设备数和流量选好套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户提供多档订阅方案，覆盖从每月 100GB 到 1000GB 的流量选择，支持 3 台至 20 台设备同时在线。基础版适合轻度浏览与流媒体，旗舰版增加 IPLC 专线游戏加速和全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。可按月付或年付，年付更划算。",
+          "AI_FEATURES_INTRO": "围绕流量、设备和线路差异，帮助快速定位合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备，按人数和用量挑选。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点，适合更高要求的场景。",
+          "AI_FEATURE_TEXT_3": "三档均可按月付或按年付，年付分别为 ¥150、¥350、¥850，长期使用年付更省。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "喵子科学站提供多档海外加速订阅，按流量、设备数和线路需求划分基础版、旗舰版和团队版，支持按月或按年付费，方便按需选择。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选配",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 台至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付更省，最低 ¥150/年",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850，可按流量和设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数和线路要求，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐设备数上限是否匹配，并了解所选线路的适用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "喵子科学站加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、月用 100GB 以内的轻度浏览；旗舰版覆盖 5 台设备与 300GB 流量，适合多设备日常使用；团队版面向 20 台设备与 1000GB 用量场景。",
+          "AI_FAQ_ANSWER_2": "套餐按月或按年计费。基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年，长期使用可选年付。",
+          "AI_FAQ_ANSWER_3": "常用桌面与移动系统都有对应客户端。安装后找到订阅导入入口，把订阅地址粘贴进去并更新，节点列表就会出现在客户端中。",
+          "AI_FAQ_ANSWER_4": "可以。按流量与设备数量选择档位并完成付费，订单生效后订阅地址会与所选套餐对应，直接导入客户端使用。",
+          "AI_FAQ_ANSWER_5": "在客户端中更新订阅即可重新拉取节点。如遇线路波动，可切换节点或稍后重试，具体连通情况以当前网络环境为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "喵子科学站套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅的计费周期有哪些？",
+          "AI_FAQ_QUESTION_3": "客户端如何导入订阅？",
+          "AI_FAQ_QUESTION_4": "可以在多台设备上使用吗？",
+          "AI_FAQ_QUESTION_5": "订阅更新后无法连接怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dznr4b.cn",
+    "host": "dznr4b.cn"
+  },
+  "file_hashes": {
+    "index.html": "a6044df7b19749e8c06f65dc2970f653ec736a86a79d186c4ed52287c03c3682",
+    "sitemap.xml": "433322ad5ff5e0d188f8a336a5c7acf040dd5dc6d3109c95b9f7f488c9cce689",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e15a51b580391b17d348d20e857b7523882bb24e99fce2b23989b16309a5e953",
+    "robots.txt": "db2e393fbebd557cd69a1008a25399d55f34f645b32675b7b87c831521256ebe",
+    "cbe43902ea170c6caf90310e453eae03.txt": "544ae7e8419b9a3d6655091daabb56ffb0787628ebd51e2b4d82cd31c6e84055"
+  },
+  "revision": "e18627105d8b0cc7b692cd81207f47288ed0d87354b602f6d0ac55a883b53edf"
+}
